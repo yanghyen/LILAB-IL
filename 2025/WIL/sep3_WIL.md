@@ -6,6 +6,7 @@
 - CBOW 코드 재현
 - Skip-gram 코드 재현
 - MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens 발표 준비(9/30)
+- 언어에이전트 논문 리뷰 과제
 
 ## 📌This Week I Learned
 
