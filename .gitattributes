@@ -1,0 +1,9 @@
+# 모든 텍스트 파일은 자동으로 처리
+* text=auto
+
+# 마크다운, 코드 파일은 무조건 LF
+*.md text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
