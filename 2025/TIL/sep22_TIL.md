@@ -1,4 +1,4 @@
-# 250919
+# 250922
 ## ✅TO-DO
 - 밑딥시 Ch4
 - ✅CBOW 클론 코딩 50 epoch & gensim 구현 money~finance 유사도 값 비교
