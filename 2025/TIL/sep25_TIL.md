@@ -11,6 +11,14 @@
 
 ## 📌Today I Learned
 ### ssh환경에서 github 연결
+1. ssh에 git 설치 ```sudo apt install git```
+2. 키 생성: ```ssh-keygen -t ed25519 -C "your_email@example.com"``` 
+3. GitHub 키 등록: ```~/.ssh/id_ed25519.pub``` 출력값 -> GitHub -> Settings -> SSH and GPG keys 등록
+4. 키 추가: ```eval "$(ssh-agent -s)"  
+ssh-add ~/.ssh/id_ed25519```
+    - 키 등록 확인: ```ssh-add -l```
+5. 원격 저장소 설정: ```git remote set-url origin git@github.com:yanghyen/Word2Vec-CBOW-PyTorch.git```
+6. git push!
 
 ## 💡 회고 / 인사이트
 
