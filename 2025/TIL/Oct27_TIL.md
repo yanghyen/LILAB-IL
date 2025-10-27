@@ -3,6 +3,8 @@
 - ✅10월 넷째주 WIL 작성 및 진행사안 업로드
 - ✅dataset v1 레포 생성
 - Word2Vec 실험 목록 정리
+    - config 파일 만들어두기
+    - ver2의 결과물 경로 파악
 - Word2Vec paper 작성
 
 ## 📌Today I Learned
