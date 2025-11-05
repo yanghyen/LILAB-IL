@@ -1,12 +1,12 @@
-# 251104
+# 251105
 ## ✅TO-DO
-- ✅ELMo 개념 학습
+- 대학원 원서접수 연구계획서 작성
+- ELMo 개념 학습
 - 10월 MIL 작성
 - Word2Vec 디렉토리 정리 
     - run.sh 작성
     - 데이터셋 다운로드 플로우 정리 
-- Word2Vec paper 작성
-- ✅Word2Vec repo 깃허브 연동
+    - ✅subsampling off 코드 작성
 
 ## 📌Today I Learned
 ### <UNK>
@@ -16,10 +16,6 @@
 ## 💥 트러블슈팅
 
 ## 🍩내일 할 일 
-- ELMo 개념 학습
-- 10월 MIL 작성
+- Word2Vec paper 작성
 - Word2Vec 디렉토리 정리 
     - run.sh 작성
-    - 데이터셋 다운로드 플로우 정리 
-    - subsampling off 코드 작성
-- Word2Vec paper 작성
