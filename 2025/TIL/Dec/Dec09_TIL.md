@@ -1,4 +1,7 @@
 # 251209
+## 집 가서
+- 1일1논문 마무리 
+
 ## 🔥Challenge
 - 🔥일찍 출근: 10:00
 - 1일1논문: Is Vibe Coding Safe? (https://arxiv.org/pdf/2512.03262)
