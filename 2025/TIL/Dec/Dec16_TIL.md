@@ -3,6 +3,7 @@
 - 💧일찍 출근: 15:00
 - 1일1논문: cross-lingual RAG (https://arxiv.org/abs/2505.10089)
 - 1일1구현: cross-lingual RAG (https://arxiv.org/abs/2505.10089)
+  - https://github.com/amazon-science/XRAG?utm_source=chatgpt.com 
 
 ## ✅TO-DO🎠
 - 12월 둘째주 WIL 작성 
