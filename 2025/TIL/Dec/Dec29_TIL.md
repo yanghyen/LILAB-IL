@@ -22,5 +22,5 @@
 - 1일1논문: Testing theory of mind in large language models and humans – Nature Human Behaviour (May 2024)
 - 1일1구현: cross-lingual RAG (https://arxiv.org/abs/2505.10089)
   - https://github.com/amazon-science/XRAG?utm_source=chatgpt.com 
-- Transformers) 위키독스 3강 학습 
 - 모델 별 특성 찾아보기 TIL 작성 
+- ELMo) 디렉토리 정리 후 커밋
