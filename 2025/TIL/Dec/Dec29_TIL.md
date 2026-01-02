@@ -1,7 +1,7 @@
 # 251229
 ## 🔥Challenge💧
 - 💧일찍 출근: 11:30
-- 1일1논문: Testing theory of mind in large language models and humans – Nature Human Behaviour (May 2024)
+- 🔥1일1논문: Testing theory of mind in large language models and humans – Nature Human Behaviour (May 2024)
 - 1일1구현: cross-lingual RAG (https://arxiv.org/abs/2505.10089)
   - https://github.com/amazon-science/XRAG?utm_source=chatgpt.com 
 
