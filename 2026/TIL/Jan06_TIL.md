@@ -22,3 +22,8 @@
 ## 💥 트러블슈팅
 
 ## 🍩내일 할 일 
+- ELMo) 디렉토리 정리 후 커밋
+- ELMo) 전처리 확인 
+- ELMo) 트러블 슈팅 작성 -> 데이터 전처리 시 UNK 토큰 개수 2000개 대 
+- Transformers) wikidocs 3, 4
+- 디동) “Think Twice”: Perspective-Taking Improves LLMs’ Theory-of-Mind Capabilities – ACL 2024 읽기 
