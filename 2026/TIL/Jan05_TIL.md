@@ -1,17 +1,16 @@
-# 260102
+# 260105
 ## 🔥Challenge💧
-- 💧일찍 출근: 11:00
-- 1일1논문: Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in LLMs – EACL 2024
+- 💧일찍 출근: X
+- 1일1논문: Accelerating Scientific Discovery with Autonomous Goal-evolving Agents
 - 1일1구현: cross-lingual RAG (https://arxiv.org/abs/2505.10089)
   - https://github.com/amazon-science/XRAG?utm_source=chatgpt.com 
 
 ## ✅TO-DO🎠
+- 진행사안 업로드 
 - ELMo) 디렉토리 정리 후 커밋
-- ELMo) epoch1, 2 eval, downstream task
-  - 샤갈 
+- ELMo) train_bilm.py 수정 
 - Transformers) wikidocs 3, 4
-- 디동) Clever Hans 논문 읽기
-- ✅디동) 연구 계획 세우기 
+- 디동) Think Twice 논문 읽기
 
 ## 📌Today I Learned
 ### 모델 별 특성 찾아보기
